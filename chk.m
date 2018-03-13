@@ -1,0 +1,3 @@
+pwd
+who
+load ('m')
